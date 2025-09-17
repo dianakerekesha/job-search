@@ -79,5 +79,5 @@ php artisan route:cache
 php artisan view:cache
 npm run build
 
-Built while following a Laravel tutorial series on Udemy/Jeffrey Way. 
+Built while following a Laravel tutorial series on Udemy. 
 Custom features and modifications have been implemented throughout the development process.
