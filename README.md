@@ -79,4 +79,5 @@ php artisan route:cache
 php artisan view:cache
 npm run build
 
-GitHub: @dianakerekesha
+Built while following a Laravel tutorial series on Udemy/Jeffrey Way. 
+Custom features and modifications have been implemented throughout the development process.
